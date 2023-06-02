@@ -8,6 +8,7 @@
 html {
   font-family: "Inconsolata", monospace;
   font-family: "Raleway", sans-serif;
+  font-size: 16px;
 }
 :root {
   --clr-Very-dark1-blue: hsl(217, 54%, 11%);
